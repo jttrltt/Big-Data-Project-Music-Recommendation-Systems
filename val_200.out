@@ -1,0 +1,29 @@
+
+End of LogType:stdout
+***********************************************************************
+
+Container: container_1619268950684_19718_01_000001 on hc06.nyu.cluster_8041
+LogAggregationType: AGGREGATED
+===========================================================================
+LogType:stdout
+LogLastModifiedTime:Tue May 18 21:24:39 -0400 2021
+LogLength:198
+LogContents:
+model saved
+predictions done
+truth done
+rdd created
+metrics done
+Rank:200, regParam: 0.1, alpha:1, max_iter:20 ,map score:  0.04084858868489091, ndcg score: 0.18205980518523215, pk score: 0.0104366
+
+End of LogType:stdout
+***********************************************************************
+
+
+End of LogType:stdout
+***********************************************************************
+
+
+End of LogType:stdout
+***********************************************************************
+
